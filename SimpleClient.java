@@ -4,6 +4,7 @@
  *
  * @author Maksim Shelepov
  * @version 1.0 dated Jan 15, 2018
+ * @link https://github.com/Loredan15/HW6
  */
 import java.io.*;
 import java.net.*;
